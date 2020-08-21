@@ -1,1 +1,1 @@
-https://tanguyderiot/github/tderiot/first-webpage/index.html
+https://tderiot.github.io/tderiot/
