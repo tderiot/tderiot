@@ -12,7 +12,7 @@ navbar:
       href: CV.html 
   right:
     - icon: fa-github
-      href: https://github.com/tderiot/tderiot.git
+      href: https://tderiot.github.io
 output:
   html_document:
     theme: darkly
