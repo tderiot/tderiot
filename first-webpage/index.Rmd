@@ -1,0 +1,11 @@
+---
+title: "About Me"
+---
+
+<center>
+Hi, I'm Tanguy Deriot.
+</center>
+
+I'm a fourth year student at the University of California, Santa Barbara studying Geography with an emphasis in GIS. I hope to use the knowledge I learned during my time in university to increase my skills in software and get a career in urban/city planning, I am especially interested in public transportation in urban environments.
+
+![](img/urban_planning.png)

@@ -1,0 +1,9 @@
+---
+title: "Projects"
+---
+
+In the summer of 2020 I took a class called Geography 176A which was a GIS course where we worked with R. Below are some links to the projects we worked on in the class. 
+
+- Learned to edit our GitHub website using R Studio
+- Learned how to create R Markdown and YAML files
+- Learned to render files
