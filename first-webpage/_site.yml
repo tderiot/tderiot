@@ -10,9 +10,6 @@ navbar:
       href: geog176A.html
     - text: "Cv"
       href: CV.html 
-  right:
-    - icon: fa-github
-      href: https://github.com/tderiot/tderiot.git
 output:
   html_document:
     theme: darkly
